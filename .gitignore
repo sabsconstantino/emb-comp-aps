@@ -1,0 +1,19 @@
+# Data
+data/
+
+# figures
+figs/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Snakemake
+.snakemake
+workflow/config.yaml
+
+# Temp files
+notebooks/outputs
+notebooks/temp
+
+# etc
+.DS_Store

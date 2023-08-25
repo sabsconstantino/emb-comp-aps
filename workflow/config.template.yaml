@@ -1,0 +1,10 @@
+data_dir: "data/"
+aps_metadata_dir: "data/aps-dataset-metadata-2018/"
+paper_dir: "paper/current/"
+fig_dir: "figs/"
+
+journal_sets: [["PhysRevLett", "PhysRevA", "PhysRevB", "PhysRevC", "PhysRevD", "PhysRevE"],
+               ["all"]
+              ]
+
+max_year: 2010
